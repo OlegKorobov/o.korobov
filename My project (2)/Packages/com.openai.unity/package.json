@@ -1,0 +1,51 @@
+{
+  "name": "com.openai.unity",
+  "displayName": "OpenAI",
+  "description": "A OpenAI package for the Unity to use though their RESTful API.\n\nIndependently developed, this is not an official library and I am not affiliated with OpenAI.\n\nAn OpenAI API account is required.",
+  "keywords": [],
+  "version": "8.8.9",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/RageAgainstThePixel/com.openai.unity#documentation",
+  "changelogUrl": "https://github.com/RageAgainstThePixel/com.openai.unity/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/RageAgainstThePixel/com.openai.unity.git"
+  },
+  "author": {
+    "name": "Stephen Hodgson",
+    "url": "https://github.com/StephenHodgson"
+  },
+  "dependencies": {
+    "com.utilities.audio": "3.0.3",
+    "com.utilities.encoder.wav": "3.0.2",
+    "com.utilities.rest": "5.1.1",
+    "com.utilities.websockets": "2.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Assistant",
+      "description": "Contains sample assistant behaviour and scene",
+      "path": "Samples~/Assistant"
+    },
+    {
+      "displayName": "Chat",
+      "description": "Contains sample chat behaviour and scene",
+      "path": "Samples~/Chat"
+    },
+    {
+      "displayName": "Realtime",
+      "description": "Contains sample realtime behaviour and scene",
+      "path": "Samples~/Realtime"
+    },
+    {
+      "displayName": "Responses",
+      "description": "Contains sample responses behaviour and scene",
+      "path": "Samples~/Responses"
+    }
+  ],
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  },
+  "_fingerprint": "b9fc565a5c7e18d8b6faed94e68cdf0b1f8445b0"
+}

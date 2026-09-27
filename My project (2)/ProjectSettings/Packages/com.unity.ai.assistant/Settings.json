@@ -1,0 +1,11 @@
+{
+    "CustomInstructionsGUID": "",
+    "CheckpointEnabled": false,
+    "GitInstanceTypeValue": 2,
+    "CustomGitPath": "C:/Users/Oleg/AppData/Local/Programs/GitHub Copilot/github.exe",
+    "CheckpointRetentionWeeks": 2,
+    "PlanExecutionPromptDismissed": false,
+    "CheckpointDiscoveryBannerDismissed": true,
+    "CheckpointDiscoveryUserDisabled": false,
+    "CheckpointDiscoveryFlowStarted": true
+}
